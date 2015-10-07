@@ -1,0 +1,10 @@
+PODS:
+  - DoActionSheetFork (1.1.2)
+
+DEPENDENCIES:
+  - DoActionSheetFork
+
+SPEC CHECKSUMS:
+  DoActionSheetFork: 5a0a26f9049ac8a8b68c6cdb8190eaa167f4a0b4
+
+COCOAPODS: 0.38.2
