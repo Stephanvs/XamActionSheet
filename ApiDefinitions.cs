@@ -14,6 +14,9 @@ namespace XamActionSheet
     [BaseType(typeof(UIView))]
     interface DoActionSheet : IMKMapViewDelegate
     {
+        vm[Export("initWithFrame:")]
+        IntPtr Constructor(CGRect frame);
+
         // @property (readwrite) int nAnimationType;
         [Export("nAnimationType")]
         int AnimationType { get; set; }
