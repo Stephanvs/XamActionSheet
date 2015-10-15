@@ -1,0 +1,21 @@
+%YAML 1.2
+---
+name: XamActionSheet
+id: XamActionSheet
+publisher: Stephan van Stekelenburg
+license: License.md
+icons:
+  - XamActionSheet_128x128.png
+  - XamActionSheet_512x512.png
+publisher-url: http://github.com/Stephanvs/XamActionSheet
+libraries:
+  ios: ../lib/ios/Awesome.dll
+summary: A replacement for UIActionSheet for Xamarin.iOS inspired by DoActionSheet
+details: Details.md
+screenshots:
+  - screenshots/screenshot1.png
+getting-started: GettingStarted.md
+version: 1.1.2
+samples:
+  iOS Sample: ../samples/XamActionSheetSample.sln
+...
